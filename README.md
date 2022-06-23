@@ -1,2 +1,2 @@
-# -PythonCrawlingStockSentimentAnalysisFinal
+# PythonCrawlingStockSentimentAnalysisFinal
 Kakaotalk
